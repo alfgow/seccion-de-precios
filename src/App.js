@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import CardContainer from "./components/card-container";
+import Layout from "./components/layout";
+import PriceDescription from "./components/price-description";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const [temporary, setTemporary] = useState("month");
+
+	return (
+		<Layout>
+			<PriceDescription
+				setTemporary={setTemporary}
+				temporary={temporary}
+			/>
+			<CardContainer temporary={temporary} />
+		</Layout>
+	);
 }
 
 export default App;
