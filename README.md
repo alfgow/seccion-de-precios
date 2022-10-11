@@ -13,7 +13,7 @@ Realicé éste proyecto de la escuela de Leonidas Esteban: <a href='https://leon
 
 ### Movil View
 
-<img src='https://raw.githubusercontent.com/alfgow/seccion-de-precios/master/src/img/Screenshot_20221011_113257.jpg' width="300" height="600"/>
+<img src='https://raw.githubusercontent.com/alfgow/seccion-de-precios/master/src/img/Screenshot_20221011_113257.jpg' width="270" height="600"/>
 
 ## Desktop View
 
