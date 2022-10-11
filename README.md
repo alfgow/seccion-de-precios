@@ -6,7 +6,7 @@ Realicé éste proyecto de la escuela de Leonidas Esteban: <a href='https://leon
 
 <a href='https://www.twitch.tv/videos/1620977764' target='_blank' rel="noreferrer">Aquí te dejo un video en vivo haciendo una parte de la maquetación</a>
 
-➡️ Código del proyecto: <a href='https://github.com/alfgow/seccion-de-precios">https://github.com/alfgow/seccion-de-precios</a>
+➡️ Código del proyecto: <a href='https://github.com/alfgow/seccion-de-precios'>https://github.com/alfgow/seccion-de-precios</a>
 
 ✅ Live del proyecto: <a href='https://seccion-de-precios.vercel.app/' target='_blank' rel="noreferrer">https://seccion-de-precios.vercel.app/</a>
 
